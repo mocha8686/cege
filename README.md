@@ -4,7 +4,6 @@ CEGE (C++ ECS Game Engine) is a game engine written in C++, based on an Entity C
 
 ## Foreword
 
-CEGE was originally a personal project that happened to line up with my APCS class final project's timeline, so I decided to use a portion of its development as my final project. I had been working out the initial plans for it when the final project was announced, so this slice of development is from the first steps of coding.
 I started CEGE to learn more about game engines, including graphics, windowing, physics, and other concepts that developers have invented and fine-tuned over several years. I also wanted to gain experience with working on a C++ project, instead of only writing small code snippets with it.
 
 ## Introduction
@@ -285,7 +284,3 @@ The demo in `src/` is a very simple prototype that features player input, collis
 ![A video displaying a head controlled by a player moving a ball around the screen.](doc/assets/demo.gif)
 
 All the code for this demo can be found in `src/`.
-
-## APCS Conclusion
-
-Overall, this project taught a lot about C++ and its intricacies (mainly with the standard library and C++20 features), how game engines work, and how an entity component system can be written.
